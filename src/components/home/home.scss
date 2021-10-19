@@ -1,0 +1,115 @@
+
+        .logo{
+            position: absolute;
+            width: 278px;
+            height: 115px;
+            left: 440px;
+            top: 37px;
+           }
+  
+    .logo_desc{
+        position: absolute;
+        width: 220px;
+        height: 30px;
+        margin-left: 653px;
+        margin-top: 146px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 16px;
+        color: #484848;
+    }
+    .searchbar{
+        position: absolute;
+        width: 709px;
+        height: 46px;
+        left: 209px;
+        top: 426px;
+        background: #FFFFFF;
+        border: 1px solid #000000;
+        box-sizing: border-box;
+        border-radius: 8px;
+    }
+    #root > div.table > div.x > button{
+        top: 36px;
+        margin-left: -155px;
+    }
+    button{
+        position: absolute;
+        width: 138px;
+        height: 46px;
+        left: 934px;
+        top: 426px; 
+        background: #204080;
+        border-radius: 8px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    .table{
+        position: absolute;
+        width: 709px;
+        height: 308px;
+        left: 209px;
+        top: 490px;
+        background: #FFFFFF;
+        border: 1px solid #484848;
+        box-sizing: border-box;
+        border-radius: 4px;
+        .data_date{
+            width: 207px;
+            height: 26px;
+            margin-left: 35px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 12px;
+            line-height: 14px;
+            color: #686868;
+        }     
+        .line{
+            width: 644px;
+            height: 0px;
+            left: 239px;
+            top: 552.42px;
+            border: 1px solid #585858;
+            transform: matrix(1, 0, 0, 1, 0, 0);
+        }
+    }
+        .row {
+            display: flex;
+        }
+        
+        .column {
+            flex: 50%;
+            width: 345px;
+            height: 31.42px;
+            margin-left: 35px;
+            margin-top: 10px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 21px;
+            color: #484848;
+        }
+        .show{
+            position: absolute;
+            width: 79px;
+            height: 17px;
+            left: 456px;
+            margin-top: 122px;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 12px;
+            line-height: 14px;
+            color: #000000;
+            cursor:pointer;
+        }
+  

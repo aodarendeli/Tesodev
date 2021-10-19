@@ -1,0 +1,122 @@
+
+
+.logoresult{
+    width: 149px;
+    height: 63px;
+    margin-left: 37px;
+    margin-top: 20px;
+}
+.searchbar{
+    width: 509px;
+    height: 46px;
+    left: 221px;
+    top: 35px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+.searchbar:hover{
+   
+        width: 509px;
+        height: 46px;
+        left: 221px;
+        top: 35px;
+        background: #FFFFFF;
+        border: 1px solid #000000;
+        box-sizing: border-box;
+        border-radius: 8px;
+    
+}
+#root > div:nth-child(2) > input[type=text]
+{
+    width: 509px;
+    height: 46px;
+    left: 221px;
+    top: 35px;
+    background: rgba(100, 100, 100, 0.08);
+    border: 2px solid rgba(0, 0, 0, 0.6);
+    box-sizing: border-box;
+    border-radius: 8px;
+
+}
+
+#root > div:nth-child(2) > div.x > button{
+    width: 138px;
+    height: 46px;
+    left: 754px;
+    top: 32px !important;
+}
+.dropdown{
+    position: relative;
+    width: 103px;
+    height: 25px;
+    left: 788px;
+    top: -240px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    color: #484848;
+}
+.dropdown_icon{
+    position: absolute;
+    width: 26px;
+    height: 24px;
+    left: 754px;
+    top: 174px;
+
+}
+.table{
+    position: relative;
+    border: none;
+    left:80px;
+    top:160px;
+}
+
+.data_date{
+    width: 207px;
+    height: 26px;
+    margin-left: 35px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    color: #686868;
+}     
+.line{
+    width: 644px;
+    height: 0px;
+    left: 239px;
+    top: 552.42px;
+    border: 1px solid #585858;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    width: 345px;
+    height: 31.42px;
+    margin-left: 35px;
+    margin-top: 10px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 21px;
+    color: #484848;
+}
+#root > div.ozgur > button{
+    width: 138px;
+    height: 46px;
+    left: 754px;
+    top: 32px;
+    background: #4F75C2;
+    border-radius: 8px;
+}
